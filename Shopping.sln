@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping", "Shopping\Shopping.csproj", "{0DEE28B8-D04A-4F0B-8E79-FCA5C21E506C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingLogic", "ShoppingLogic\ShoppingLogic.csproj", "{CC6E22EA-0B2B-4E46-A236-0CED78A82B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{BC33CD6C-CE04-4315-9697-8D937626F930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DEE28B8-D04A-4F0B-8E79-FCA5C21E506C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEE28B8-D04A-4F0B-8E79-FCA5C21E506C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEE28B8-D04A-4F0B-8E79-FCA5C21E506C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEE28B8-D04A-4F0B-8E79-FCA5C21E506C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6E22EA-0B2B-4E46-A236-0CED78A82B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6E22EA-0B2B-4E46-A236-0CED78A82B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6E22EA-0B2B-4E46-A236-0CED78A82B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6E22EA-0B2B-4E46-A236-0CED78A82B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC33CD6C-CE04-4315-9697-8D937626F930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC33CD6C-CE04-4315-9697-8D937626F930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC33CD6C-CE04-4315-9697-8D937626F930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC33CD6C-CE04-4315-9697-8D937626F930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {276DAA0D-BCE8-4E7E-8857-D318D3AC67EF}
+	EndGlobalSection
+EndGlobal
